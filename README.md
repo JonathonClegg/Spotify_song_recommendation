@@ -1,5 +1,5 @@
 # song_recommendation
-##Introduction
+## Introduction
 The aim of this project is to build a song recommender based on users pre-existing preferences.
 
 The model will be trained on a dataset of songs and their attributes from varius spotify playlists, which will be gathered by web scraping from spotify using Python's web scraping libraries. We will be using Spotipy, a Python library for the Spotify Web API, to gather information about users' favorite artists and songs. 
